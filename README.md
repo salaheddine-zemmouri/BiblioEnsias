@@ -1,5 +1,6 @@
 # BIBLIO_ENSIAS
 
+This project was given as an assignment in the school I’m in .
 
 # GTK INSTALLATION PROCESS
 
@@ -69,3 +70,5 @@ run this command **_sudo apt install libgtk-3-dev_** and you're good to go :D (a
   - cmake .
   - make
 - Run the application from within the terminal by running the command ./BIBLIOENSIAS
+
+## Readme Credit goes to : Oussama Barkouki
